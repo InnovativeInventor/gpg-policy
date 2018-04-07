@@ -8,8 +8,8 @@ My current master key fingerprint is: `9668 99E2 B92F 9DC6 FC2C  F99F C9F9 3C8D 
 My policy file is located at `policy.md`.
 
 This repo will be updated with:
-- `policy.md.asc` containing the clear signature of my master key.
-- `policy.md.sig` containing the detached signature of my regular key
+- `policy.md.master.asc` containing the clear signature of my master key.
+- `policy.md.regular.asc` containing the detached signature of my regular key
 - `*.ots` containing the opentimestamps proof.
 
 Then, when I feel my policy has reached a publishable stage, I will "release" it through signed Git tags. My Git tags will be signed by my regular key because of the one direction rule.
