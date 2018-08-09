@@ -1,3 +1,5 @@
+NOTICE: This project has been abandoned because my qubes installation broke and I was unable to fix it. The master key has been lost, along with the string that produced the SHA512 hash. My workflow has since changed and is back to having a GPG key announced on Keybase and various other places. I plan to pick up this project later when Qubes OS is mature enough for me to use it on a daily basis.
+
 # gpg-policy
 This contains my GPG key policy and how I deal with certain events. Feel free to clone this repository and verify my signatures.
 
